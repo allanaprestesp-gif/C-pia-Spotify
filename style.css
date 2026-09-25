@@ -1,0 +1,10 @@
+:root {
+    --tinder-red: #ce130a;
+    --white: #ffffff;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
